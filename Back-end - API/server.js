@@ -74,22 +74,3 @@ app.delete('/usuarios/:id', async (req, res) => {
 })
 
 app.listen(3000)
-
-/*
-req / requisição - res / responder
-
-1) Tipo de Rota / Método HTTP
-2) Endereço 
-
-Criar nossa API de usuários
-
-- Criar um usuário
-- Listar todos os usuários
-- Editar um usuário
-- Deletar um usuário
-findmany = todos usuarios
-
-Allan
-nqefQhfMxJ8dMAnO
-
-*/
